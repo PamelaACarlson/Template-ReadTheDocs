@@ -18,7 +18,7 @@ To use the template, set it up in your `couscous.yml` configuration file:
 template:
     url: https://github.com/CouscousPHP/Template-ReadTheDocs
 ```
-
+##just making an update
 ## Configuration
 
 Here are all the variables you can set in your `couscous.yml`:
